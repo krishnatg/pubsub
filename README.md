@@ -28,4 +28,4 @@ content=manutd		-> content of the article being published (only for publisher).
 emport=30097		-> Server port of the Event Manager.
 title=ggmu		-> title of the article being published (only for publisher).
 
-For any further technical help, please reach out to the developer, Krishna Tippur Gururaj, at kxt2163@rit.edu.
+For any further technical help, please reach out to the developer, Krishna Tippur Gururaj, at krishnatg@gmail.com
